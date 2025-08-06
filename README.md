@@ -62,5 +62,5 @@ SIT315_TaskM1/
 - [x] TaskM1.cpp uploaded
 - [x] Serial screenshot showing PCI & Timer output
 - [x] Reflection Report included
-- [x] GitHub link shared
+- [x] GitHub link  & TinkerCard shared (inside reflection report)
 
